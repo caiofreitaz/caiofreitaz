@@ -15,4 +15,4 @@
   
   ##
  
-![Snake animation](https://github.com/rafaballerini/caiofreitaz/blob/output/github-contribution-grid-snake.svg)  
+![Snake animation](https://github.com/caiofreitaz/caiofreitaz/blob/output/github-contribution-grid-snake.svg)  
